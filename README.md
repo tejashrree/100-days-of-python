@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
 [![Udemy Course](https://img.shields.io/badge/Udemy-Angela%20Yu's%20Bootcamp-purple?logo=Udemy)](https://www.udemy.com/course/100-days-of-code/)
 [![Commit Every Day](https://img.shields.io/badge/Commit-Every%20Day-brightgreen?logo=github)](https://github.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 
 Welcome to my personal journey through [Dr. Angela Yu’s 100 Days of Code: Python Bootcamp](https://www.udemy.com/course/100-days-of-code/) on Udemy!
@@ -37,17 +37,26 @@ This repository contains all my daily code, mini-projects, challenges, and notes
 
 Each day has its own folder:)
 
-📚 Topics You'll Learn:
-->  Python Basics & Syntax
-->  Functions, Loops, Conditionals
-->  Lists, Dictionaries, Tuples, Sets
-->  Error Handling
-->  Object-Oriented Programming (OOP)
-->  File I/O, APIs, and Web Scraping
-->  GUI with Tkinter
-->  Data Analysis and Automation
-->  Games (Turtle, Blackjack, Pong)
-->  Capstone Projects (Web Apps, Automation Tools)
+📚 Topics You'll Learn
+Python Basics & Syntax
+
+Functions, Loops, Conditionals
+
+Lists, Dictionaries, Tuples, Sets
+
+Error Handling
+
+Object-Oriented Programming (OOP)
+
+File I/O, APIs, and Web Scraping
+
+GUI with Tkinter
+
+Data Analysis and Automation
+
+Games (Turtle, Blackjack, Pong)
+
+Capstone Projects (Web Apps, Automation Tools)
 
 ---
 
