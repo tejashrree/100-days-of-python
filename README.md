@@ -19,8 +19,8 @@ This repository contains all my daily code, mini-projects, challenges, and notes
 | Day 01 | Printing, Variables, String Manipulation           | ✅     |
 | Day 02 | Data Types, Numbers, Math, f-Strings               | ✅     |
 | Day 03 | Control Flow, Logical Operators                    | ✅     |
-| Day 04 | Randomisation and Lists                            | ⏳     |
-| Day 05 | Loops and the Range Function                       | ⏳     |
+| Day 04 | Randomisation and Lists                            | ✅     |
+| Day 05 | Loops and the Range Function                       | ✅     |
 | Day 06 | Functions and Karel Robot                          | ⏳     |
 | Day 07 | Hangman Game – Project                             | ⏳     |
 | Day 08 | Function Parameters, Caesar Cipher – Project       | ⏳     |
